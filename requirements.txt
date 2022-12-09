@@ -1,7 +1,7 @@
 appdirs==1.4.4
 audioread==2.1.9
 brotlipy==0.7.0
-certifi==2021.5.30
+certifi==2022.12.7
 cffi==1.14.6
 charset-normalizer==2.0.8
 colorama==0.4.4

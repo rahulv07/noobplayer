@@ -40,4 +40,4 @@ tornado==6.1
 tqdm==4.62.3
 urllib3==1.26.7
 vosk==0.3.32
-wheel==0.37.0
+wheel==0.38.1
